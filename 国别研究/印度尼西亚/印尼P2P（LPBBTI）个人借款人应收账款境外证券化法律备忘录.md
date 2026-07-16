@@ -45,18 +45,25 @@
 
 ### A. Kesimpulan pokok
 
-Pada prinsipnya **dapat**, dengan syarat dan pembatasan yang diuraikan di bawah. Kelayakan bertumpu pada dua lapis analisis: (i) kualifikasi piutang sebagai objek hukum yang dapat dialihkan dan dijaminkan; dan (ii) kepatuhan terhadap kerangka regulasi sektoral LPBBTI dan pasar modal.
+Pada prinsipnya **dapat**, dengan syarat dan pembatasan yang diuraikan di bawah. Untuk menjawab pertanyaan ini secara menyeluruh, perlu ditelaah lima lapis analisis yang saling terkait: (i) kualifikasi piutang sebagai objek hukum yang dapat dialihkan dan dijaminkan; (ii) karakter khusus piutang peminjam individu (konsumtif); (iii) kepatuhan terhadap batas konsentrasi dan kerangka regulasi LPBBTI; (iv) akibat hukum dari pilihan struktur (SPV tunggal vs *true sale*); dan (v) kualifikasi penerbitan efek di luar Indonesia terhadap rezim pasar modal Indonesia.
 
-### B. Piutang sebagai objek hukum yang dapat dialihkan
+### B. Piutang sebagai objek hukum yang dapat dialihkan dan dijaminkan
 
-Berdasarkan Pasal 499 dan Pasal 511 angka 3 KUHPerdata, piutang merupakan benda bergerak tidak berwujud yang dapat dimiliki, dialihkan, dan dibebani jaminan. Piutang dari perjanjian pendanaan LPBBTI dapat menjadi aset dasar penerbitan efek sepanjang memenuhi syarat kumulatif:
+Berdasarkan Pasal 499 dan Pasal 511 angka 3 KUHPerdata, piutang merupakan benda bergerak tidak berwujud (*immaterieel roerend goed*) yang dapat dimiliki, dialihkan (Pasal 613 KUHPerdata), dan dibebani jaminan (Pasal 9 UU Jaminan Fidusia). Secara doktrinal, tidak ada hambatan prinsipil bagi piutang untuk menjadi aset dasar penerbitan efek. Piutang dari perjanjian pendanaan LPBBTI memenuhi kualifikasi tersebut sepanjang memenuhi syarat kumulatif:
 
-1. **sah dan mengikat** — timbul dari perjanjian pendanaan yang sah menurut Pasal 1320 KUHPerdata;
-2. **dapat diidentifikasi** — tiap piutang dapat ditentukan secara jelas (identitas Penerima Dana, jumlah pokok, bunga, jatuh tempo);
+1. **sah dan mengikat** — timbul dari perjanjian pendanaan yang sah menurut Pasal 1320 KUHPerdata dan tunduk pada hukum Indonesia;
+2. **dapat diidentifikasi** — tiap piutang dapat ditentukan secara jelas (identitas Penerima Dana, jumlah pokok, bunga, jatuh tempo), termasuk piutang yang akan timbul kemudian (*future receivables*) sepanjang dasar hukumnya sudah ada dan dapat ditentukan;
 3. **tidak sedang disengketakan** dan bukan piutang yang telah macet/hapus; serta
-4. **tidak dilarang untuk dialihkan/dijaminkan** oleh perjanjian pendanaan atau peraturan perundang-undangan.
+4. **tidak dilarang untuk dialihkan/dijaminkan** oleh perjanjian pendanaan atau peraturan perundang-undangan, termasuk klausul larangan pengalihan (*non-assignment clause*) dalam perjanjian pendanaan baku.
 
-### C. Batas konsentrasi Pemberi Dana (isu material)
+### C. Karakter khusus piutang peminjam individu (relevansi terhadap pertanyaan)
+
+Karena pertanyaan secara spesifik menyangkut **peminjam individu**, dua aspek khusus perlu diperhatikan:
+
+1. **Sifat konsumtif vs produktif.** Piutang terhadap peminjam individu sering kali bersifat konsumtif. Hal ini relevan karena Pasal 136 ayat (2) POJK 40/2024 hanya membuka pengecualian anjak piutang apabila dilakukan dalam bentuk **pendanaan produktif** (di samping syarat jaminan dari penjual piutang). Apabila piutang bersifat konsumtif, ruang untuk menstrukturkan pengalihan sebagai anjak piutang yang diperbolehkan menjadi lebih sempit, sehingga memperkuat preferensi terhadap struktur SPV tunggal (Bagian D).
+2. **Pelindungan konsumen dan data pribadi.** Peminjam individu merupakan Subjek Data Pribadi dan konsumen jasa keuangan; penggunaan piutangnya sebagai aset dasar tidak boleh menurunkan pelindungan yang melekat pada mereka, khususnya kerahasiaan data (Pasal 157 POJK 40/2024 dan UU PDP — lihat Bagian IV.F) serta kelangsungan mekanisme pembayaran melalui *escrow account* (Pasal 153 POJK 40/2024 — lihat Bagian IV.G). Hak dan kewajiban peminjam berdasarkan perjanjian pendanaan tidak boleh berubah tanpa memenuhi Pasal 147 POJK 40/2024.
+
+### D. Batas konsentrasi Pemberi Dana (isu material)
 
 Pasal 137 ayat (5) POJK 40/2024 membatasi pendanaan setiap Pemberi Dana beserta afiliasinya paling banyak **25%** dari posisi akhir *outstanding* pendanaan Penyelenggara pada akhir bulan; pengecualian sampai dengan **75%** hanya berlaku bagi pelaku usaha jasa keuangan yang diawasi OJK (Pasal 137 ayat (6) dan ayat (7)).
 
@@ -66,30 +73,44 @@ Pasal 137 ayat (5) POJK 40/2024 membatasi pendanaan setiap Pemberi Dana beserta 
 - menggunakan beberapa SPV yang **tidak terafiliasi** — dengan kehati-hatian, karena afiliasi digabungkan dalam perhitungan batas; atau
 - menstrukturkan kendaraan agar memenuhi kualifikasi lembaga jasa keuangan yang diawasi OJK (umumnya tidak praktis bagi SPV asing).
 
-### D. Akibat hukum bergantung pada identitas SPV
+Batas ini merupakan **pembatasan material** yang harus diselesaikan terlebih dahulu, karena menentukan volume piutang yang dapat dikumpulkan (*pooled*) sebagai aset dasar dan pada gilirannya menentukan ukuran penerbitan.
+
+### E. Akibat hukum bergantung pada identitas SPV
+
+Akibat hukum transaksi sangat bergantung pada apakah Pemberi Dana dan penerbit efek merupakan SPV yang sama.
 
 **Struktur A — SPV yang sama menjadi Pemberi Dana sekaligus penerbit efek.**
-Tidak terjadi pengalihan piutang atau perubahan kreditur, sehingga Pasal 613 KUHPerdata tidak terpicu. Penerima Dana tetap berutang kepada SPV yang sama; investor hanya memiliki hak tagih terhadap SPV berdasarkan *notes* dan dokumen penerbitan, bukan terhadap masing-masing peminjam. Struktur ini lebih sederhana, namun **bukan** *true sale* karena piutang tetap tercatat sebagai aset SPV penerbit. Apabila *notes* diterbitkan tanpa jaminan, investor hanya memegang hak tagih kontraktual terhadap SPV; apabila dijamin dengan piutang, penjaminan wajib mengikuti UU Jaminan Fidusia (lihat Bagian IV.E).
+Tidak terjadi pengalihan piutang atau perubahan kreditur, sehingga Pasal 613 KUHPerdata tidak terpicu. Penerima Dana tetap berutang kepada SPV yang sama; investor hanya memiliki hak tagih terhadap SPV berdasarkan *notes* dan dokumen penerbitan, bukan terhadap masing-masing peminjam. Struktur ini lebih sederhana dari perspektif hukum Indonesia, namun **bukan** *true-sale securitization* karena piutang tetap tercatat sebagai aset SPV penerbit dan tidak terisolasi dari risiko kepailitan SPV tersebut. Apabila *notes* diterbitkan tanpa jaminan, investor hanya memegang hak tagih kontraktual terhadap SPV; apabila dijamin dengan piutang, penjaminan wajib mengikuti Pasal 9 UU Jaminan Fidusia (lihat Bagian IV.E).
 
 **Struktur B — piutang dialihkan kepada SPV penerbit yang berbeda (*true sale*).**
-Pengalihan wajib dilakukan berdasarkan Pasal 613 KUHPerdata melalui akta autentik atau akta di bawah tangan. Cessie berlaku antara pihak yang mengalihkan (*cedent*) dan penerima pengalihan (*cessionaris*) sejak akta dibuat, tetapi baru berlaku terhadap peminjam setelah **diberitahukan** kepada peminjam atau **disetujui/diakui secara tertulis** oleh peminjam. Pengalihan ini juga harus diselaraskan dengan Pasal 143–147 POJK 40/2024; apabila mengubah identitas kreditur, hak penagihan, mekanisme pembayaran, atau ketentuan perjanjian pendanaan, perubahan tersebut memerlukan persetujuan Pemberi Dana dan Penerima Dana (Pasal 147 POJK 40/2024).
+Pengalihan wajib dilakukan berdasarkan Pasal 613 KUHPerdata melalui akta autentik atau akta di bawah tangan. Cessie berlaku antara pihak yang mengalihkan (*cedent*) dan penerima pengalihan (*cessionaris*) sejak akta dibuat, tetapi baru berlaku terhadap peminjam setelah **diberitahukan** kepada peminjam atau **disetujui/diakui secara tertulis** oleh peminjam. Untuk portofolio peminjam individu yang berjumlah besar, pemberitahuan massal ini menimbulkan beban operasional yang nyata dan perlu diantisipasi dalam dokumentasi (misalnya melalui mekanisme pemberitahuan yang telah disepakati sejak awal dalam perjanjian pendanaan). Pengalihan ini juga harus diselaraskan dengan Pasal 143–147 POJK 40/2024; apabila mengubah identitas kreditur, hak penagihan, mekanisme pembayaran, atau ketentuan perjanjian pendanaan, perubahan tersebut memerlukan persetujuan Pemberi Dana dan Penerima Dana (Pasal 147 POJK 40/2024).
 
 **Ketidakpastian regulasi Struktur B.** Pasal 136 ayat (2) POJK 40/2024 melarang Penyelenggara memfasilitasi anjak piutang, kecuali disertai jaminan dari penjual piutang dan dalam bentuk pendanaan produktif. Meskipun Pasal 148 ayat (2) memperbolehkan Penyelenggara memfasilitasi pengalihan risiko pendanaan, ketentuan tersebut tidak secara tegas mengatur pengalihan **kepemilikan** piutang melalui *true sale*. Karena itu, Struktur B sebaiknya didahului konfirmasi/*no-objection* tertulis dari OJK melalui Penyelenggara.
 
-### E. Perbandingan struktur
+### F. Perbandingan struktur
 
 | Aspek | Struktur A — SPV Tunggal | Struktur B — *True Sale* ke SPV Berbeda |
 |---|---|---|
 | Pengalihan piutang | Tidak ada | Ada (cessie, Pasal 613 KUHPerdata) |
 | Perubahan kreditur | Tidak | Ya — memicu Pasal 147 POJK 40/2024 |
+| Pemberitahuan ke peminjam | Tidak perlu | Wajib agar berlaku terhadap peminjam |
 | Sifat *true sale* | Tidak (piutang tetap aset SPV) | Ya (pemisahan aset lebih tegas) |
 | Persetujuan Pengguna | Umumnya tidak perlu | Diperlukan bila mengubah perjanjian |
 | Isolasi kepailitan (*bankruptcy remoteness*) | Terbatas | Lebih baik, bila cessie sah dan tidak dapat dibatalkan |
+| Kesesuaian dengan Pasal 136 (anjak piutang) | Tidak menjadi isu | Berpotensi terkendala bila piutang konsumtif |
 | Risiko regulasi | **Lebih rendah** | Lebih tinggi — perlu *no-objection* OJK |
 
-### F. Kualifikasi penawaran di luar Indonesia
+### G. Karakter penerbitan sebagai "sekuritisasi" dan "efek"
+
+Perlu ditegaskan bahwa yang diterbitkan adalah *notes*/efek utang oleh SPV yang **dijamin arus kas** (*cash flow*) dari portofolio piutang, bukan penjualan langsung piutang kepada investor. Investor tidak menjadi kreditur masing-masing peminjam; mereka memegang hak tagih terhadap SPV (dan, untuk *secured notes*, hak jaminan atas piutang). Dengan demikian, meskipun disebut "sekuritisasi", Struktur A secara teknis merupakan *secured/unsecured note issuance* berbasis aset, sedangkan karakter *true-sale securitization* yang sesungguhnya baru tercapai pada Struktur B.
+
+### H. Kualifikasi penerbitan di luar Indonesia terhadap rezim pasar modal
 
 Penerbitan efek di luar Indonesia pada prinsipnya **bukan** Penawaran Umum di Indonesia apabila memenuhi seluruh kondisi berikut: (i) penerbit merupakan SPV asing; (ii) efek diterbitkan dan ditawarkan sepenuhnya di luar Indonesia; (iii) tidak dipasarkan atau dijual kepada pihak di Indonesia; dan (iv) tidak menggunakan infrastruktur pasar modal Indonesia. Dalam kondisi tersebut, Pasal 1 angka 15 dan Pasal 70 ayat (1) UU Pasar Modal tidak mewajibkan penyampaian Pernyataan Pendaftaran kepada OJK. Sebaliknya, unsur *reverse solicitation*, pemasaran daring yang menjangkau investor Indonesia, atau distribusi kepada investor domestik berpotensi menimbulkan kualifikasi Penawaran Umum; hal ini wajib dihindari dan ditegaskan melalui *selling restrictions* dalam dokumen penerbitan.
+
+### I. Simpulan Pertanyaan 1
+
+Piutang terhadap peminjam individu di Indonesia **dapat** digunakan sebagai aset dasar penerbitan efek di luar Indonesia. Namun, rencana transaksi baru layak dilaksanakan apabila secara kumulatif: (i) memenuhi batas konsentrasi Pasal 137 POJK 40/2024; (ii) diperbolehkan oleh perjanjian LPBBTI; (iii) tidak mengubah kreditur atau mekanisme pembayaran tanpa memenuhi Pasal 613 KUHPerdata dan Pasal 147 POJK 40/2024; dan (iv) penerbitan sepenuhnya dilakukan dan ditawarkan di luar Indonesia sehingga tidak menjadi Penawaran Umum. Dari perspektif hukum Indonesia, **Struktur A** (SPV yang sama sebagai Pemberi Dana dan penerbit efek) mempunyai risiko regulasi yang lebih rendah daripada **Struktur B** (*true sale* kepada SPV lain), yang sebaiknya tidak dilaksanakan sebelum memperoleh konfirmasi/*no-objection* tertulis dari OJK.
 
 ---
 
@@ -115,7 +136,7 @@ Apabila Penyelenggara membuat perjanjian kerja sama tambahan untuk *servicing* a
 
 ### C. Pendaftaran dalam sistem pasar modal Indonesia
 
-Sepanjang efek sepenuhnya diterbitkan dan ditawarkan di luar Indonesia (lihat Bagian III.F), maka **tidak diperlukan**:
+Sepanjang efek sepenuhnya diterbitkan dan ditawarkan di luar Indonesia (lihat Bagian III.H), maka **tidak diperlukan**:
 
 - Pernyataan Pendaftaran kepada OJK;
 - pencatatan pada Bursa Efek Indonesia; maupun
